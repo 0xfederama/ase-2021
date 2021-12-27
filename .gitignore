@@ -6,3 +6,5 @@
 **/*.zip
 **/screenshots/*
 **/.DS_Store
+**/*.pages
+**/*.docx
